@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="bg-green-600 py-56 min-h-screen">
     <div class="container mx-auto text-center px-8">
+      <center><img src="https://i.imgur.com/a4aDhEm.png" width="30%"/></center>
       <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">Ben's Minecraft Server</h2>
       <h3 class="text-xl lg:text-4xl text-green-200">
         End of service:
