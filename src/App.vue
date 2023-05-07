@@ -21,6 +21,9 @@
         >Instagram</a>
       </div>
     </div>
+      <footer style="position: fixed; bottom: 0; left: 0; width: 100%; color: #fff; text-align: center; padding: 16px;"> <!-- background-color: #424242; -->
+          <span>&copy; 2023 Benwyw. All rights reserved.</span>
+      </footer>
   </div>
 </template>
 
